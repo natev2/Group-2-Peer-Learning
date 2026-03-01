@@ -1,1 +1,2 @@
-# Group-2-Peer-Learning
+# Group2 Python Quests
+- Python basics practice
